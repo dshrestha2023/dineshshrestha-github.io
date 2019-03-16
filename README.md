@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Dinesh shrestha
+
+#### PROFESSIONAL SUMMARY
+I am a passionate Geographic Information System (GIS) Developer and Analyst with an extensive experience in the Esri's Enterprise ArcGIS stack and product architecture who helps companies deliver optimum GIS solutions at a reduced cost.
+•	7+ years of GIS Analyst/Technician experience with skill-sets on ESRI ArcGIS 10.x (Spatial and Network Analysis, Model Builder, Toolbox), ArcGIS Online, and QGIS 
+•	2+ years of ArcGIS API for JavaScript/Python, Story Maps, Map Journal 
+•	Self-motivated and organized person with excellent creative thinking abilities and communication skills         
 
 You can use the [editor on GitHub](https://github.com/Dineshrestha/Dineshrestha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
