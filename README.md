@@ -1,4 +1,4 @@
-## Dinesh Shrestha
+## DINESH SHRESTHA
 
 ### PROFESSIONAL SUMMARY
 I am a passionate Geographic Information System (GIS) Developer and Analyst with an extensive experience in the Esri's Enterprise ArcGIS stack and product architecture who helps companies deliver optimum GIS solutions at a reduced cost.
