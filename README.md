@@ -1,5 +1,5 @@
-# A website for Dapeng Li's CV
-Thi project hosts Dapeng's CV
+# A website for Dinesh Shrestha's Resume
+This project hosts Dinesh's Resume
 
 ## Getting Started
 
